@@ -1,0 +1,4 @@
+C:\Dev\STM\obj\Debug\netcoreapp2.1\STM.csprojAssemblyReference.cache
+C:\Dev\STM\obj\Debug\netcoreapp2.1\STM.csproj.CoreCompileInputs.cache
+C:\Dev\STM\obj\Debug\netcoreapp2.1\STM.AssemblyInfoInputs.cache
+C:\Dev\STM\obj\Debug\netcoreapp2.1\STM.AssemblyInfo.cs
